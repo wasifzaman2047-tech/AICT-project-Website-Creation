@@ -1,100 +1,149 @@
-DualPages Books
 
-"Your Story Starts Here"
 
-Live Website: https://wasifzaman2047.wixsite.com/mysite
 
-Project Overview
 
-DualPages Books is an e-commerce online bookstore developed as part of an AICT academic project. The platform allows users to browse and explore books across multiple categories.
+# DualPages Books
 
-Platform: Wix (Free Plan)
-Type: Online Book Store
-Total Products: 23
-Price Range: PKR 612 – PKR 3,040
-Categories:
-Urdu Novels & Literature
-Islamic Holy Books
-Competitive Exam Books
-Team Members & Roles
-Muhammad Wasif Ul Zaman (Tech Lead)
-Setup Wix website
-Configured store & categories
-Managed navigation and publishing
-Omamah Naeem (Art Director)
-Designed website layout, colors, fonts
-Created banners and visual identity
-Muhammad Ahmad Shah (Product Manager)
-Added 23 book listings
-Managed pricing & categories
-Prepared project report
-Development Process
+## Tagline
 
-We followed these steps to build the website:
+**Your Story Starts Here**
 
-Planning – Decided to create an online bookstore
-Wix Setup – Created account and selected template
-Designing – Built UI/UX and homepage layout
-Categories – Created 3 main sections
-Product Listing – Added books with prices & images
-Navigation Setup – Linked pages and menus
-Testing & Publishing – Checked functionality and launched
-Book Categories
-Competitive Exams
+## Live Demo
 
-Includes MDCAT, NTS, CSS, and English improvement books.
+[https://wasifzaman2047.wixsite.com/mysite](https://wasifzaman2047.wixsite.com/mysite)
 
-Islamic Books
+---
 
-Includes Quran, Hadith collections, and Seerat books.
+## About the Project
 
-Urdu Novels
+DualPages Books is an academic e-commerce website developed as part of the AICT course. The project demonstrates how an online bookstore can be designed, structured, and deployed using a website builder.
 
-Includes famous novels like:
+The platform allows users to browse books, explore categories, and simulate the shopping experience.
 
-Peer-e-Kamil
-Haalim
-Karakoram Ka Taj Mahal
-Limitations (Free Wix Plan)
+---
 
-The project was built using Wix free plan, which has some limitations:
+## Key Features
 
-Feature	Status
-Online Payments	Not Available
-Custom Domain	Not Connected
-Remove Wix Branding	Not Available
-Payment Issue
+* Online book browsing system
+* Category-based navigation
+* Product listings with pricing
+* Shopping cart functionality
+* Responsive design (desktop and mobile)
 
-During checkout, users see the message:
+---
+
+## Tech Stack
+
+* **Platform:** Wix
+* **Plan Used:** Free Version
+* **Type:** E-commerce Website
+
+---
+
+## Project Details
+
+| Attribute       | Description                                   |
+| --------------- | --------------------------------------------- |
+| Website Name    | DualPages Books                               |
+| Total Products  | 23                                            |
+| Price Range     | PKR 612 – PKR 3,040                           |
+| Categories      | Urdu Novels, Islamic Books, Competitive Exams |
+| Project Type    | Academic (AICT)                               |
+| Completion Date | May 2026                                      |
+
+---
+
+## Team Members
+
+### Muhammad Wasif Ul Zaman — Tech Lead
+
+* Created and configured Wix website
+* Managed navigation and publishing
+* Set up store structure
+
+### Omamah Naeem — Art Director
+
+* Designed layout, colors, and typography
+* Managed visual elements and branding
+
+### Muhammad Ahmad Shah — Product Manager
+
+* Added product listings
+* Managed categories and pricing
+* Documented the project
+
+---
+
+## Development Workflow
+
+1. Planning and idea selection
+2. Wix account setup
+3. UI/UX design
+4. Category creation
+5. Product listing
+6. Navigation setup
+7. Testing and publishing
+
+---
+
+## Book Categories
+
+### Competitive Exams
+
+MDCAT, NTS, CSS, and English learning books
+
+### Islamic Books
+
+Quran, Hadith collections, and Seerat
+
+### Urdu Novels
+
+* Peer-e-Kamil
+* Haalim
+* Karakoram Ka Taj Mahal
+
+---
+
+## Limitations
+
+This project uses the Wix free plan, which includes the following restrictions:
+
+* No online payment integration
+* No custom domain support
+* Wix branding cannot be removed
+
+---
+
+## Known Issue
+
+### Online Payment Error
+
+Users encounter the message:
 "We can't accept online payments"
 
-Reason
-Wix free plan does not support payment gateways
-No payment provider can be connected
-Solution
+### Cause
 
-Upgrade to a Wix Business Plan and integrate:
+* Payment gateways are not supported on Wix free plan
+* No payment provider can be connected
 
-JazzCash
-EasyPaisa
-Stripe / PayPal
-Conclusion
+### Future Fix
 
-This project successfully demonstrates the development of a fully functional e-commerce website using Wix.
+* Upgrade to Wix Business Plan
+* Integrate payment methods such as JazzCash, EasyPaisa, Stripe, or PayPal
 
-Although payment features are restricted due to the free plan, the website includes:
+---
 
-Product listings
-Categories
-Shopping cart
-Checkout interface
+## Conclusion
 
-This project reflects our understanding of:
+DualPages Books successfully demonstrates the creation of a functional e-commerce website using Wix.
 
-Web development
-E-commerce systems
-UI/UX design
-References
-Wix Help Center: https://support.wix.com
-Wix Pricing: https://www.wix.com/upgrade/website
-Project Website: https://wasifzaman2047.wixsite.com/mysite
+Despite limitations in payment processing, the project includes all essential components of an online store and reflects strong understanding of web development and digital commerce concepts.
+
+---
+
+## References
+
+* [https://support.wix.com](https://support.wix.com)
+* [https://www.wix.com/upgrade/website](https://www.wix.com/upgrade/website)
+* [https://wasifzaman2047.wixsite.com/mysite](https://wasifzaman2047.wixsite.com/mysite)
+
